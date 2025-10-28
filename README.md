@@ -1,2 +1,8 @@
-# riff-test-repo
-AI-generated app: riff-test-repo
+# Riff Test Repo
+
+This is a test repository created by Riff AI Studio.
+
+## Features
+- Auto-generated code
+- GitHub integration
+- One-click deployment
